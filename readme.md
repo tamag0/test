@@ -8,3 +8,4 @@ hoge2で追加
 hoge１で追加
 
 feature/test で追加
+feature/test2 で追加
