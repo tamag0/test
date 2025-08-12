@@ -11,3 +11,6 @@ feature/test で追加
 feature/test2 で追加
 
 release/1.0.1 で追加
+
+module1で追加
+module1で追加2
